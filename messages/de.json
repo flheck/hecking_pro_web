@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "about": "Über mich",
+    "skills": "Fähigkeiten",
+    "contact": "Kontakt",
+    "impressum": "Impressum"
+  },
+  "about": {
+    "title": "Über mich",
+    "subtitle": "Full-Stack Entwickler & Software Engineer"
+  },
+  "skills": {
+    "title": "Fähigkeiten",
+    "subtitle": "Technologien & Werkzeuge, mit denen ich arbeite"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Nehmen Sie Kontakt auf",
+    "form": {
+      "name": "Ihr Name",
+      "email": "Ihre E-Mail",
+      "message": "Ihre Nachricht",
+      "send": "Nachricht senden",
+      "success": "Nachricht erfolgreich gesendet!",
+      "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut."
+    },
+    "info": {
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "location": "Standort"
+    }
+  },
+  "impressum": {
+    "title": "Impressum",
+    "back": "Zurück zur Startseite"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten",
+    "legalNotice": "Impressum"
+  },
+  "languageSwitcher": {
+    "label": "Sprache"
+  }
+}

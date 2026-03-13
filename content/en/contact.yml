@@ -1,0 +1,13 @@
+email: hello@florian-hecking.dev
+phone: "+49 123 456 789"
+location: "Berlin, Germany"
+social:
+  - platform: GitHub
+    url: https://github.com/fhecking
+    icon: GitHub
+  - platform: LinkedIn
+    url: https://linkedin.com/in/fhecking
+    icon: LinkedIn
+  - platform: Twitter
+    url: https://twitter.com/fhecking
+    icon: Twitter

@@ -1,0 +1,39 @@
+categories:
+  - name: Frontend
+    skills:
+      - name: React
+        level: 95
+      - name: Next.js
+        level: 90
+      - name: TypeScript
+        level: 90
+      - name: Material UI
+        level: 85
+      - name: CSS / SCSS
+        level: 85
+
+  - name: Backend
+    skills:
+      - name: Node.js
+        level: 88
+      - name: Python
+        level: 80
+      - name: REST APIs
+        level: 90
+      - name: GraphQL
+        level: 75
+      - name: PostgreSQL
+        level: 80
+
+  - name: DevOps & Cloud
+    skills:
+      - name: AWS
+        level: 82
+      - name: Docker
+        level: 80
+      - name: GitHub Actions
+        level: 85
+      - name: Terraform
+        level: 65
+      - name: Linux
+        level: 78
